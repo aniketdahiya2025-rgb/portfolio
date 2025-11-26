@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 600 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Layer1">
+        <rect x="-1028.23" y="-248.288" width="1712.17" height="4055.19" style="fill:#3d4345;"/>
+        <rect x="-13.101" y="-13.059" width="626.202" height="426.201" style="fill:url(#_Radial1);"/>
+        <g id="CorelEMF" serif:id="CorelEMF">
+        </g>
+        <g id="CorelEMF1" serif:id="CorelEMF">
+        </g>
+        <g id="CorelEMF2" serif:id="CorelEMF">
+        </g>
+        <g id="CorelEMF3" serif:id="CorelEMF">
+        </g>
+        <g id="CorelEMF4" serif:id="CorelEMF">
+        </g>
+        <g>
+            <path d="M198.886,308.696C180.9,235.302 212.099,197.113 234.177,168.215C255.658,140.17 255.317,118.177 243.554,103.941C316.096,125.082 333.571,171.113 347.551,204.699C361.105,237.347 380.37,248.088 398.526,245.019C343.971,297.274 295.297,289.346 259.239,284.658C224.204,280.054 205.28,291.392 198.886,308.696Z" style="fill:#d9d9d9;"/>
+            <path d="M206.838,296.141C188.852,222.746 220.051,184.557 242.129,155.66C263.61,127.615 263.269,105.622 251.505,91.386C324.048,112.527 341.523,158.558 355.502,192.144C369.056,224.792 388.321,235.533 406.478,232.464C351.922,284.718 303.248,276.791 267.19,272.102C232.155,267.499 213.231,278.837 206.838,296.141Z" style="fill:url(#_Linear2);"/>
+            <path d="M223.119,254.031C230.024,251.729 237.355,250.365 244.856,249.769C245.027,242.864 246.391,234.169 250.056,224.281C255.853,208.596 266.423,195.213 276.482,182C281.341,175.692 285.773,168.958 289.609,161.797C290.462,162.735 291.314,163.758 292.081,164.696C302.822,177.653 309.13,193.423 315.523,208.767C317.91,214.648 322.087,223.002 327.202,231.356C316.29,234.254 279.977,228.373 260.456,216.353C280.318,249.087 330.1,258.123 361.81,239.369C350.388,229.225 341.608,215.075 335.47,200.498C328.139,182.682 321.235,165.974 308.789,150.886C300.435,140.828 290.632,132.9 279.806,126.592C276.823,141.595 268.98,156.257 259.348,168.873C247.584,184.131 236.503,198.452 229.768,216.779C225.165,229.055 223.205,241.5 223.119,254.031Z" style="fill:#fff;"/>
+        </g>
+        <g id="CorelEMF5" serif:id="CorelEMF">
+        </g>
+    </g>
+    <defs>
+        <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.19595e-14,-366.128,358.626,2.24189e-14,300,200.041)"><stop offset="0" style="stop-color:#fff;stop-opacity:1"/><stop offset="1" style="stop-color:#eee;stop-opacity:1"/></radialGradient>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-69.3456,160.966,-160.966,-69.3456,292.465,108.872)"><stop offset="0" style="stop-color:#ff3636;stop-opacity:1"/><stop offset="1" style="stop-color:#c50000;stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
