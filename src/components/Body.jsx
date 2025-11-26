@@ -14,7 +14,7 @@ export default function Body() {
             <h1 className="bodytext">Hi There,</h1>
             <h1 className="bodytext">I'm Aniket Dahiya</h1>
             <h3 className="bodytext">Frontend Developer | React Js Developer</h3>
-            <Link className="aboutme" to="/about">About me ↓</Link>
+            <a href="#about">About me ↓</a>
           </div>
           <div>
             <img className="avatar" src={avatarUrl} alt="Aniket Dahiya" />
@@ -26,7 +26,7 @@ export default function Body() {
             <a href="https://www.linkedin.com/in/aniket-dahiya-98aa36375"><img src={linkedinUrl} alt="linkedin Logo" className="smlinks" /></a>
             <a href="https://www.instagram.com/aniketdahiya2025"><img src={instagramUrl} alt="Instagram Logo" className="smlinks" /></a>
           </footer>
-          <div><Link to="/about"><img src={avatar2Url} alt="avatar" className="avatarlite" /></Link></div>
+          <div><img src={avatar2Url} alt="avatar" className="avatarlite" /></div>
         </div>
       </div>
     </div>
