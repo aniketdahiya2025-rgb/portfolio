@@ -9,12 +9,11 @@ export default function Navbar() {
         <img className="logo" src={logoUrl} alt="Logo" />
       </div>
       <div className="navlinks">
-        <Link className="navitems" to="/">Home</Link>
-        <Link className="navitems" to="/about">About</Link>
-        <Link className="navitems" to="/services">Skills</Link>
-        <Link className="navitems" to="/experience">Experience</Link>
-        <Link className="navitems" to="/works">Works</Link>
-        <Link className="navitems" to="/contact">Contact</Link>
+        <a href="#home" className="navitems" to="/">Home</a>
+        <a href="#about" className="navitems" to="/about">About</a>
+        <a href="#skills"className="navitems" to="/services">Skills</a>
+        <a  href="#works" className="navitems" to="/works">Works</a>
+        <a href="#connect" className="navitems" to="/contact">Contact</a>
       </div>
     </nav>
   );

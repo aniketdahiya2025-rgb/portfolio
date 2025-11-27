@@ -1,3 +1,6 @@
+.page{
+  scroll-behavior: smooth;
+}
 .navdisplay {
   position: fixed;
   top: 0;
