@@ -34,7 +34,7 @@ export default function Body() {
             <a href="https://www.linkedin.com/in/aniket-dahiya-98aa36375"><img src={linkedinUrl} alt="linkedin Logo" className="smlinks" /></a>
             <a href="https://www.instagram.com/aniketdahiya2025"><img src={instagramUrl} alt="Instagram Logo" className="smlinks" /></a>
           </footer>
-          <div><img src={avatar2Url} alt="avatar" className="avatarlite" /></div>
+          <div><a href="#connect"><img src={avatar2Url} alt="avatar" className="avatarlite" /></a></div>
         </div>
       </div>
       </section>
